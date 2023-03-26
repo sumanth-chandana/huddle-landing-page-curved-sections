@@ -12,6 +12,10 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
+### Links
+
+- Solution URL: [click here](https://github.com/sumanth-chandana/huddle-landing-page-curved-sections.git)
+- Live Site URL: [click here](https://huddle-page-curved-sections.netlify.app/)
 
 ## My process
 
